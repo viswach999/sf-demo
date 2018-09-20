@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>permission set, for users who explore app dashboards and datasets.</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>View Service Wave Analytics</label>
+    <license>InsightsServiceAnalyticsPsl</license>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>UseTemplatedApp</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>WaveTabularDownload</name>
+    </userPermissions>
+</PermissionSet>

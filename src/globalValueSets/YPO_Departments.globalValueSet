@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Champion Development</fullName>
+        <default>false</default>
+        <label>Champion Development</label>
+    </customValue>
+    <customValue>
+        <fullName>Chapters and Regions</fullName>
+        <default>false</default>
+        <label>Chapters and Regions</label>
+    </customValue>
+    <customValue>
+        <fullName>Corporate Services/Events</fullName>
+        <default>false</default>
+        <label>Corporate Services/Events</label>
+    </customValue>
+    <customValue>
+        <fullName>Executive</fullName>
+        <default>false</default>
+        <label>Executive</label>
+    </customValue>
+    <customValue>
+        <fullName>Family</fullName>
+        <default>false</default>
+        <label>Family</label>
+    </customValue>
+    <customValue>
+        <fullName>Finance</fullName>
+        <default>false</default>
+        <label>Finance</label>
+    </customValue>
+    <customValue>
+        <fullName>Forum</fullName>
+        <default>false</default>
+        <label>Forum</label>
+    </customValue>
+    <customValue>
+        <fullName>Governance</fullName>
+        <default>false</default>
+        <label>Governance</label>
+    </customValue>
+    <customValue>
+        <fullName>Human Resources</fullName>
+        <default>false</default>
+        <label>Human Resources</label>
+    </customValue>
+    <customValue>
+        <fullName>Information Technology</fullName>
+        <default>false</default>
+        <label>Information Technology</label>
+    </customValue>
+    <customValue>
+        <fullName>Learning and Insights</fullName>
+        <default>false</default>
+        <label>Learning and Insights</label>
+    </customValue>
+    <customValue>
+        <fullName>Marketing and Communications</fullName>
+        <default>false</default>
+        <label>Marketing and Communications</label>
+    </customValue>
+    <customValue>
+        <fullName>Membership</fullName>
+        <default>false</default>
+        <label>Membership</label>
+    </customValue>
+    <customValue>
+        <fullName>Networks</fullName>
+        <default>false</default>
+        <label>Networks</label>
+    </customValue>
+    <customValue>
+        <fullName>Product Management</fullName>
+        <default>false</default>
+        <label>Product Management</label>
+    </customValue>
+    <customValue>
+        <fullName>Sponsorship and Alliances</fullName>
+        <default>false</default>
+        <label>Sponsorship and Alliances</label>
+    </customValue>
+    <masterLabel>YPO Departments</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

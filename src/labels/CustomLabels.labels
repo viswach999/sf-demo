@@ -1,0 +1,2367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>AON_Product_Quick_Create_Page_Header</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>AON Product Quick Create Page Header</shortDescription>
+        <value>AON OLI</value>
+    </labels>
+    <labels>
+        <fullName>Account_Affiliations</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Account Affiliations</shortDescription>
+        <value>Account Affiliations</value>
+    </labels>
+    <labels>
+        <fullName>Account_Affiliations_Batch_Size</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Account Affiliations Batch Size</shortDescription>
+        <value>5</value>
+    </labels>
+    <labels>
+        <fullName>Account_Affiliations_Email_Failure_Message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Account Affiliations Email Failure Message</shortDescription>
+        <value>The following errors occurred during the StartAffiliationsDailyBatch:</value>
+    </labels>
+    <labels>
+        <fullName>Account_Affiliations_Email_Message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Account Affiliations Email Success Message</shortDescription>
+        <value>There were no errors for the StartAffiliationsDailyBatch.</value>
+    </labels>
+    <labels>
+        <fullName>Account_Not_Found</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Account not found</shortDescription>
+        <value>Account not found</value>
+    </labels>
+    <labels>
+        <fullName>Action</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Action</shortDescription>
+        <value>Action</value>
+    </labels>
+    <labels>
+        <fullName>Add</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Add</shortDescription>
+        <value>Add</value>
+    </labels>
+    <labels>
+        <fullName>Add_Child</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Add Child</shortDescription>
+        <value>Add Child</value>
+    </labels>
+    <labels>
+        <fullName>Add_Remove_Interests</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Add/Remove Interests</shortDescription>
+        <value>Add/Remove Interests</value>
+    </labels>
+    <labels>
+        <fullName>Add_Remove_Skillsets</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Add/Remove Skillsets</shortDescription>
+        <value>Add/Remove Skillsets</value>
+    </labels>
+    <labels>
+        <fullName>Add_Spouse</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Add Spouse/Partner</shortDescription>
+        <value>Add Spouse/Partner</value>
+    </labels>
+    <labels>
+        <fullName>Additional_Contact_Details</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Additional Contact Details</shortDescription>
+        <value>Additional Contact Details</value>
+    </labels>
+    <labels>
+        <fullName>Additional_Data_Form</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Additional Data Form</shortDescription>
+        <value>Additional Data Form</value>
+    </labels>
+    <labels>
+        <fullName>Attachments_Five</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Attachments_Five</shortDescription>
+        <value>You cannot upload more than 5 attachments!</value>
+    </labels>
+    <labels>
+        <fullName>Attachments_title</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Attachments_title</shortDescription>
+        <value>Attachments Max Limit 5!</value>
+    </labels>
+    <labels>
+        <fullName>Back</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Back</shortDescription>
+        <value>Back</value>
+    </labels>
+    <labels>
+        <fullName>Batch_Error_Message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Batch Error Message</shortDescription>
+        <value>Following Errors were Occurred while running UpdChapterHealthDailyBatch batch for,</value>
+    </labels>
+    <labels>
+        <fullName>Birthdate</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Birthdate</shortDescription>
+        <value>Birthdate</value>
+    </labels>
+    <labels>
+        <fullName>Business_Network</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Business Network</shortDescription>
+        <value>Business Network</value>
+    </labels>
+    <labels>
+        <fullName>Cancel</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Cancel</shortDescription>
+        <value>Cancel</value>
+    </labels>
+    <labels>
+        <fullName>Cant_Delete_Task</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Cant Delete Task</shortDescription>
+        <value>You do not have access to delete activities.</value>
+    </labels>
+    <labels>
+        <fullName>CatalogItemDetailAddNewMember_Toaddanewfamilymember</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CatalogItemDetailAddNewMember_Toaddanewfamilymember</shortDescription>
+        <value>To add a new family member, Please provide the following information regarding your YNG+ Benefit Subscription Rate Beneficiary before adding to your shopping cart.</value>
+    </labels>
+    <labels>
+        <fullName>CatalogItemDetailed_Toaddanewfamilymember</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CatalogItemDetailed_Toaddanewfamilymember</shortDescription>
+        <value>To add a new family member, Please provide the following information regarding your YNG+ Benefit Subscription Rate Beneficiary before adding to your shopping cart.</value>
+    </labels>
+    <labels>
+        <fullName>Catalog_YPOMembershipCatalog</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Catalog_YPOMembershipCatalog</shortDescription>
+        <value>YPO Membership Catalog</value>
+    </labels>
+    <labels>
+        <fullName>Catalog_YPO_BackNoGrace</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Catalog_YPO_BackNoGrace</shortDescription>
+        <value>You have already selected Grace. If you would like to change this selection, please contact Member Services.\n\nEMAIL\nmembership@ypo.org\n\nPHONE\n+1 972 587 1618\n+1 800 773 7976</value>
+    </labels>
+    <labels>
+        <fullName>Catalog_YPO_BackTransitioned</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Catalog_YPO_BackTransitioned</shortDescription>
+        <value>You have already elected to transition to YPO Gold. If you would like to change your selection back to YPO and not transition, please contact Member Services.\n\nEMAIL\nmembership@ypo.org\n\nPHONE\n+1 972 587 1618\n+1 800 773 7976</value>
+    </labels>
+    <labels>
+        <fullName>Catalog_Your2016YPO</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Catalog_Your2016YPO</shortDescription>
+        <value>Your YPO membership has been successfully added to your cart.</value>
+    </labels>
+    <labels>
+        <fullName>Catalog_Ypohaspartnered</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Catalog_Ypohaspartnered</shortDescription>
+        <value>YPO has partnered with several companies that we believe can provide important benefits to you.</value>
+    </labels>
+    <labels>
+        <fullName>Change_Qualifying_Company</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Change Qualifying Company</shortDescription>
+        <value>Change Qualifying Company</value>
+    </labels>
+    <labels>
+        <fullName>Chapter_Officer</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Chapter Officer</shortDescription>
+        <value>Chapter Officer</value>
+    </labels>
+    <labels>
+        <fullName>Chapter_Officer_Section</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Chapter Officer Section</shortDescription>
+        <value>Chapter Officer Section</value>
+    </labels>
+    <labels>
+        <fullName>Check_or_Wire_Payment</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Check or Wire Payment</shortDescription>
+        <value>Check or Wire Payment</value>
+    </labels>
+    <labels>
+        <fullName>CheckoutCheckWire_BillingAddress</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CheckoutCheckWire_BillingAddress</shortDescription>
+        <value>Address</value>
+    </labels>
+    <labels>
+        <fullName>CheckoutCheckWire_CheckPayments</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CheckoutCheckWire_CheckPayments</shortDescription>
+        <value>Check Payments</value>
+    </labels>
+    <labels>
+        <fullName>CheckoutCheckWire_CompanyName</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CheckoutCheckWire_CompanyName</shortDescription>
+        <value>Company Name (if applicable)</value>
+    </labels>
+    <labels>
+        <fullName>CheckoutCheckWire_CourierOvernight</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CheckoutCheckWire_CourierOvernight</shortDescription>
+        <value>&lt;strong&gt;Courier (Overnight) Delivery&lt;/strong&gt;
+&lt;br&gt;
+YPO 202590&lt;br&gt;
+2975 Regent Blvd.&lt;br&gt;
+Irving, Texas 75063&lt;br&gt;
+USA</value>
+    </labels>
+    <labels>
+        <fullName>CheckoutCheckWire_Mailchecksto</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CheckoutCheckWire_Mailchecksto</shortDescription>
+        <value>&lt;div class=&quot;infoRow&quot;&gt; &lt;span&gt; &lt;em style=&quot;font-weight:bold; text-decoration: underline; padding-bottom: 10px;&quot;&gt;Wire Transfer&lt;/em&gt; &lt;/span&gt;&lt;span&gt;&lt;em&gt; Bank ABA #121000248 &lt;/em&gt;&lt;em&gt;Swift Code: WFBIUS6S&lt;/em&gt;&lt;em&gt;Wells Fargo Bank N.A.&lt;/em&gt;&lt;em&gt;420 Montgomery Street&lt;/em&gt;&lt;em&gt;San Francisco, CA.94104&lt;/em&gt; &lt;em&gt;USA&lt;/em&gt;&lt;/span&gt; 
+&lt;/div&gt; 
+&lt;div class=&quot;infoRow&quot;&gt;&lt;span&gt;&lt;em&gt;For credit to: &lt;/em&gt;&lt;em&gt;Young Presidents&apos; Organization&lt;/em&gt;&lt;em&gt;Account # 4121315014&lt;/em&gt;&lt;/span&gt;&lt;/div&gt; 
+&lt;div class=&quot;infoRow&quot;&gt; 
+  &lt;span&gt;&lt;em style=&quot;font-weight:bold; text-decoration: underline; padding-bottom: 10px;&quot;&gt;Check Payment&lt;/em&gt;&lt;/span&gt;
+  &lt;div style=&quot;padding-left: 6%;&quot;&gt;
+    &lt;div style=&quot;float: left; padding-right: 5%&quot;&gt;&lt;em&gt; Courier (Overnight) Delivery:&lt;/em&gt;&lt;em&gt;YPO 202590 &lt;/em&gt;&lt;em&gt;2975 Regent Blvd.&lt;/em&gt;&lt;em&gt;Irving, TX 75063&lt;/em&gt;&lt;em&gt;USA&lt;/em&gt;&lt;/div&gt;
+    &lt;div style=&quot;white-space:nowrap&quot;&gt;&lt;em&gt;Standard Mail Delivery:&lt;/em&gt;&lt;em&gt;YPO&lt;/em&gt;&lt;em&gt;P.O. Box 202590&lt;/em&gt;&lt;em&gt;Dallas, TX 75320-2590&lt;/em&gt;&lt;em&gt;USA&lt;/em&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</value>
+    </labels>
+    <labels>
+        <fullName>CheckoutCheckWire_PaymentDetails</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CheckoutCheckWire_PaymentDetails</shortDescription>
+        <value>Payment Details (to be shown on the invoice)</value>
+    </labels>
+    <labels>
+        <fullName>CheckoutCheckWire_PaymentHeading</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CheckoutCheckWire_PaymentHeading</shortDescription>
+        <value>Payment</value>
+    </labels>
+    <labels>
+        <fullName>CheckoutCheckWire_PleaseProvide</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CheckoutCheckWire_PleaseProvide</shortDescription>
+        <value>Please provide your payment information.</value>
+    </labels>
+    <labels>
+        <fullName>CheckoutCheckWire_Pleasemakechecksandwires</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CheckoutCheckWire_Pleasemakechecksandwires</shortDescription>
+        <value>Please make checks and wires payable to YPO and include your name and membership ID number on the check.</value>
+    </labels>
+    <labels>
+        <fullName>CheckoutCheckWire_StandardMail</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CheckoutCheckWire_StandardMail</shortDescription>
+        <value>&lt;strong&gt;Standard Mail Delivery&lt;/strong&gt;
+&lt;br&gt;
+YPO&lt;br&gt;
+P.O. Box 202590&lt;br&gt;
+Dallas, Texas 75320–2590&lt;br&gt;
+USA</value>
+    </labels>
+    <labels>
+        <fullName>CheckoutCheckWire_VATNumber</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CheckoutCheckWire_VATNumber</shortDescription>
+        <value>VAT Number (if applicable)</value>
+    </labels>
+    <labels>
+        <fullName>CheckoutCheckWire_WireTransfer</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CheckoutCheckWire_WireTransfer</shortDescription>
+        <value>Wire Transfers</value>
+    </labels>
+    <labels>
+        <fullName>CheckoutCheckWire_WireTransfer_BankABA</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CheckoutCheckWire_WireTransfer_BankABA</shortDescription>
+        <value>&lt;strong&gt;Bank ABA #121000248&lt;/strong&gt;
+&lt;br&gt;
+Account #4121315014&lt;br&gt;
+Swift Code: WFBIUS6S&lt;br&gt;
+Wells Fargo Bank N.A.&lt;br&gt;
+420 Montgomery Street&lt;br&gt;
+San Francisco, California 94104&lt;br&gt;
+USA</value>
+    </labels>
+    <labels>
+        <fullName>CheckoutSelectPayment_PAYMENTANDBILLING</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CheckoutSelectPayment_PAYMENTANDBILLING</shortDescription>
+        <value>PAYMENT AND BILLING INFORMATION</value>
+    </labels>
+    <labels>
+        <fullName>Child_Details</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Child Details</shortDescription>
+        <value>Your Children Information</value>
+    </labels>
+    <labels>
+        <fullName>ChooseANetwork_PLEASESELECT</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ChooseANetwork_PLEASESELECT</shortDescription>
+        <value>PLEASE SELECT A BUSINESS NETWORK :</value>
+    </labels>
+    <labels>
+        <fullName>ChooseANetwork_createsunic</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ChooseANetwork_createsunic</shortDescription>
+        <value>YPO Networks create unique opportunities for members to connect globally around topics, interests, and industries. Members may join as many networks as they choose - there are 55 options across business, personal and social engagement sectors.
+&lt;br/&gt;&lt;br/&gt;
+Networks create member connections through face-to-face and virtual events. The influential leadership of network members, combined with the strength and integrity of YPO, ensures that networks deliver unprecedented education and exceptional experiences.</value>
+    </labels>
+    <labels>
+        <fullName>Company_Info</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Company_Info</shortDescription>
+        <value>Company Information</value>
+    </labels>
+    <labels>
+        <fullName>ConfirmMessage_BackButton</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ConfirmMessage_BackButton</shortDescription>
+        <value>Are you sure you want to go back without saving?</value>
+    </labels>
+    <labels>
+        <fullName>ContactMemberServicesText2</fullName>
+        <categories>ContactMemberServicesClone</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ContactMemberServicesText2</shortDescription>
+        <value>If you believe there is an error, please contact Member Services:</value>
+    </labels>
+    <labels>
+        <fullName>ContactMemberServices_YPO_GraceLabel</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ContactMemberServices_YPO_GraceLabel</shortDescription>
+        <value>Please Contact YPO Member Services</value>
+    </labels>
+    <labels>
+        <fullName>Contact_Details</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Contact Details</shortDescription>
+        <value>Contact Details</value>
+    </labels>
+    <labels>
+        <fullName>Contact_Member_Services</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Contact Member Services</shortDescription>
+        <value>Contact Member Services</value>
+    </labels>
+    <labels>
+        <fullName>Continue</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Continue</shortDescription>
+        <value>Continue</value>
+    </labels>
+    <labels>
+        <fullName>Copyright_TOU</fullName>
+        <categories>Footer_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Copyright_TOU</shortDescription>
+        <value>TERMS OF USE</value>
+    </labels>
+    <labels>
+        <fullName>Copyright_YPO</fullName>
+        <categories>Footer_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Copyright_YPO</shortDescription>
+        <value>2018 YPO, Inc. All rights reserved.</value>
+    </labels>
+    <labels>
+        <fullName>Customer_Community_User_Custom</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Customer Community User(Custom)</shortDescription>
+        <value>Customer Community User(Custom)</value>
+    </labels>
+    <labels>
+        <fullName>Degree</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Degree</shortDescription>
+        <value>Degree</value>
+    </labels>
+    <labels>
+        <fullName>Document_Attachment_Error</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Document_Attachment_Error</shortDescription>
+        <value>At least one document needs to be attached</value>
+    </labels>
+    <labels>
+        <fullName>DuplicateAffiliationFound</fullName>
+        <categories>AccountAffiliationServices</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>DuplicateAffiliationFound</shortDescription>
+        <value>Duplicate Affiliation Found.</value>
+    </labels>
+    <labels>
+        <fullName>Duplicate_Contact_Position</fullName>
+        <categories>ContactPositionTrigger</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Duplicate Contact Position</shortDescription>
+        <value>There`s already an similar contact position record existing for same account, position and status, Duplicate contact name:</value>
+    </labels>
+    <labels>
+        <fullName>Duplicate_Spouse_Error_Message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Duplicate Spouse Error Message</shortDescription>
+        <value>Can have only one active spouse.</value>
+    </labels>
+    <labels>
+        <fullName>Email</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Email</shortDescription>
+        <value>Email</value>
+    </labels>
+    <labels>
+        <fullName>Error_Invalid_Id</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Error: Invalid Id.</shortDescription>
+        <value>Error: Invalid Id.</value>
+    </labels>
+    <labels>
+        <fullName>Exit</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Exit</shortDescription>
+        <value>Exit</value>
+    </labels>
+    <labels>
+        <fullName>Field_Of_Study</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Field Of Study</shortDescription>
+        <value>Field Of Study</value>
+    </labels>
+    <labels>
+        <fullName>First_Name</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>First Name</shortDescription>
+        <value>First Name</value>
+    </labels>
+    <labels>
+        <fullName>GRACE_WHATISGRACE</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>GRACE_WHATISGRACE</shortDescription>
+        <value>&lt;p&gt;Grace offers membership flexibility for a limited period of time. A YPO member who temporarily
+                does not meet membership requirements yet is in good standing may qualify for grace.
+            &lt;/p&gt;
+            &lt;p&gt;To start the approval process, contact your Chapter Chair or Chapter Membership Officer now. The
+                granting of grace is not automatic. The chapter requests grace from YPO on behalf of its members
+                if chapter leadership believes the member will requalify within a reasonable time frame. YPO and
+                chapter dues payments are required for all members who request grace.&lt;/p&gt;
+
+            &lt;p&gt;If you are interested in options other than grace, please contact Member Services.&lt;/p&gt;</value>
+    </labels>
+    <labels>
+        <fullName>GRACE_WHATISGRACE2</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>GRACE_WHATISGRACE2</shortDescription>
+        <value>What is Grace?</value>
+    </labels>
+    <labels>
+        <fullName>GRACE_YPO_Additionalcomments</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>GRACE_YPO_Additionalcomments</shortDescription>
+        <value>ADDITIONAL COMMENTS</value>
+    </labels>
+    <labels>
+        <fullName>GRACE_YPO_GRACE</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>GRACE_YPO_GRACE</shortDescription>
+        <value>Grace</value>
+    </labels>
+    <labels>
+        <fullName>GRACE_YPO_Requestgrace</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>GRACE_YPO_Requestgrace</shortDescription>
+        <value>REQUEST GRACE</value>
+    </labels>
+    <labels>
+        <fullName>GRACE_YPO_SaveandContinue</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>GRACE_YPO_SaveandContinue</shortDescription>
+        <value>Next</value>
+    </labels>
+    <labels>
+        <fullName>GRACE_YPO_Youmaybe</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>GRACE_YPO_Youmaybe</shortDescription>
+        <value>You may be eligible for grace. Grace is not automatic and must be approved by your chapter.</value>
+    </labels>
+    <labels>
+        <fullName>Gender</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Gender</shortDescription>
+        <value>Gender</value>
+    </labels>
+    <labels>
+        <fullName>Gold_Transition_Option_Back_Button</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Gold Transition Option Back Button</shortDescription>
+        <value>Don&apos;t Transition</value>
+    </labels>
+    <labels>
+        <fullName>Google_Analytics_ID</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Google Analytics ID</shortDescription>
+        <value>UA-50112822-5</value>
+    </labels>
+    <labels>
+        <fullName>Help_Email</fullName>
+        <categories>Help_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Help_Email</shortDescription>
+        <value>membership@ypo.org</value>
+    </labels>
+    <labels>
+        <fullName>Help_IfYouNeed</fullName>
+        <categories>Help_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Help_IfYouNeed</shortDescription>
+        <value>If you need assistance at any time, YPO Member Services is ready to help.</value>
+    </labels>
+    <labels>
+        <fullName>Help_NeedHelp</fullName>
+        <categories>Help_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Help_NeedHelp</shortDescription>
+        <value>Need Help?</value>
+    </labels>
+    <labels>
+        <fullName>Help_Phone1</fullName>
+        <categories>Help_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Help_Phone1</shortDescription>
+        <value>+1 800 773 7976</value>
+    </labels>
+    <labels>
+        <fullName>Help_phone2</fullName>
+        <categories>Help_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Help_phone2</shortDescription>
+        <value>+1 972 587 1618</value>
+    </labels>
+    <labels>
+        <fullName>I_agree_to_the_Code_of_Conduct</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>I agree to the Code of Conduct</shortDescription>
+        <value>I agree to the Code of Conduct</value>
+    </labels>
+    <labels>
+        <fullName>Id_Not_Present</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Id Not Present</shortDescription>
+        <value>Id Not Present</value>
+    </labels>
+    <labels>
+        <fullName>Kindly_Agree_Code_Conduct</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Kindly Agree Code Conduct</shortDescription>
+        <value>Kindly Agree Code Conduct before hitting submit</value>
+    </labels>
+    <labels>
+        <fullName>Last_Name</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Last Name</shortDescription>
+        <value>Last Name</value>
+    </labels>
+    <labels>
+        <fullName>LifeTimeOption_YPO_YouHaveOpportunity</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LifeTimeOption_YPO_YouHaveOpportunity</shortDescription>
+        <value>You have the opportunity to become a lifetime YPO member, or to renew as an annual member.</value>
+    </labels>
+    <labels>
+        <fullName>LifetimeOption_YPO_AnnualMembershipOffers</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LifetimeOption_YPO_AnnualMembershipOffers</shortDescription>
+        <value>&lt;br&gt;
+&lt;ul&gt;
+                &lt;li&gt;Annual membership offers an annual dues amount set by the YPO Board of Directors each year.&lt;/li&gt;
+                &lt;li&gt;Want to renew as an annual member? Select “Continue Membership Renewal” below and you will be directed through the online
+                    renewal process.&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;br&gt;</value>
+    </labels>
+    <labels>
+        <fullName>LifetimeOption_YPO_China</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LifetimeOption_YPO_China</shortDescription>
+        <value>&lt;label&gt;China&lt;/label&gt;&lt;span&gt;+86.1381.8916059&lt;/span&gt;</value>
+    </labels>
+    <labels>
+        <fullName>LifetimeOption_YPO_ContactMe</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LifetimeOption_YPO_ContactMe</shortDescription>
+        <value>Contact Me About Lifetime</value>
+    </labels>
+    <labels>
+        <fullName>LifetimeOption_YPO_Email</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LifetimeOption_YPO_Email</shortDescription>
+        <value>&lt;label&gt;Email&lt;/label&gt;&lt;span&gt;membership@ypo.org&lt;/span&gt;</value>
+    </labels>
+    <labels>
+        <fullName>LifetimeOption_YPO_LifetimeOption</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LifetimeOption_YPO_LifetimeOption</shortDescription>
+        <value>Lifelong Learning. Lifetime Value.</value>
+    </labels>
+    <labels>
+        <fullName>LifetimeOption_YPO_RenewAsAnnual</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LifetimeOption_YPO_RenewAsAnnual</shortDescription>
+        <value>CONTINUE MEMBERSHIP RENEWAL</value>
+    </labels>
+    <labels>
+        <fullName>LifetimeOption_YPO_SothAmerica</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LifetimeOption_YPO_SothAmerica</shortDescription>
+        <value>&lt;label&gt;South America&lt;/label&gt;&lt;span&gt;+27.168.994.117&lt;/span&gt;</value>
+    </labels>
+    <labels>
+        <fullName>LifetimeOption_YPO_TheEarlierYouElect</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LifetimeOption_YPO_TheEarlierYouElect</shortDescription>
+        <value>&lt;p&gt;
+            &lt;br&gt;
+                The earlier you elect to become a lifetime member, the greater your savings over time.
+                &lt;ul&gt;
+                    &lt;li&gt;YPO Gold lifetime members do not have to third party certify.&lt;/li&gt;
+                    &lt;li&gt;Lifetime membership can be paid in one easy payment or in three or five installments, based on your age and years of tenure in YPO. Please note, &lt;strong&gt;credit cards cannot be accepted for lifetime dues payments.&lt;/strong&gt;&lt;/li&gt;
+                    &lt;li&gt;If you are interested in lifetime membership, please select the button below. You will exit the membership renewal online portal and YPO Member Services will contact you to complete your renewal.&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/p&gt;</value>
+    </labels>
+    <labels>
+        <fullName>LifetimeOption_YPO_UnitedStates</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LifetimeOption_YPO_UnitedStates</shortDescription>
+        <value>&lt;label&gt;Phone&lt;/label&gt;&lt;span&gt;+1 972 587 1618&lt;/span&gt;&lt;span&gt;+1 800 773 7976&lt;/span&gt;</value>
+    </labels>
+    <labels>
+        <fullName>LifetimeOption_YPO_WhatisDifference</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LifetimeOption_YPO_WhatisDifference</shortDescription>
+        <value>What is the difference between lifetime and annual membership?</value>
+    </labels>
+    <labels>
+        <fullName>LifetimeOption_YPO_YouHaveTheOption</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LifetimeOption_YPO_YouHaveTheOption</shortDescription>
+        <value>You have the opportunity to become a lifetime YPO member or continue your renewal as an annual member.</value>
+    </labels>
+    <labels>
+        <fullName>M2MX_Search</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>M2MX_Search</shortDescription>
+        <value>M2MX Skillset Search</value>
+    </labels>
+    <labels>
+        <fullName>M2MX_Skillset_Manager</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>M2MX Skillset Manager</shortDescription>
+        <value>M2MX Skillset Manager</value>
+    </labels>
+    <labels>
+        <fullName>Main_Membership_Criteria</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Main_Membership_Criteria</shortDescription>
+        <value>Main Membership Criteria</value>
+    </labels>
+    <labels>
+        <fullName>MandatorySpouseFields</fullName>
+        <categories>AdditionalDataForm</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>MandatorySpouseFields</shortDescription>
+        <value>Kindly fill in the First name, Last name, Gender, Primary email &amp; Birthdate of the Spouse/Partner, you are trying to create.</value>
+    </labels>
+    <labels>
+        <fullName>Member_Bio</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Membership Information</shortDescription>
+        <value>Membership Information</value>
+    </labels>
+    <labels>
+        <fullName>Member_Not_Qualified_For_Renewals</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Error message displayed when Member do not qualify for renewals</shortDescription>
+        <value>You do not qualify with these values...</value>
+    </labels>
+    <labels>
+        <fullName>Membership_Benefits_YPO_CongratulationsYourPayment</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Membership_Benefits_YPO_CongratulationsYourPayment</shortDescription>
+        <value>Congratulations your payment was received and you will be receiving a confirmation email shortly</value>
+    </labels>
+    <labels>
+        <fullName>Membership_Benefits_YPO_ExploreYourMembership</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Membership_Benefits_YPO_ExploreYourMembership</shortDescription>
+        <value>Explore Your Membership Benefits</value>
+    </labels>
+    <labels>
+        <fullName>Membership_Benefits_YPO_PrintInvoice</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Membership_Benefits_YPO_PrintInvoice</shortDescription>
+        <value>Print Invoice</value>
+    </labels>
+    <labels>
+        <fullName>Membership_Benefits_YPO_ThankYouForSaying</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Membership_Benefits_YPO_ThankYouForSaying</shortDescription>
+        <value>Thank you for saying yes to continuing your YPO-WPO journey and to your commitment to the world’s leading network of chief executive. Please take a minute to learn more about some membership benefits curated especially for you.</value>
+    </labels>
+    <labels>
+        <fullName>Membership_Benefits_YPO_WeHaveGreatYear</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Membership_Benefits_YPO_WeHaveGreatYear</shortDescription>
+        <value>We have a great year ahead-in our chapters, regions and around the world. More than 60 years after our founding, it is not about being the biggest, it is about being the best, most meaningful. It is about having the broadest and deepest network possible. It is about connecting the most successful business leaders with each other-every corner of the world.</value>
+    </labels>
+    <labels>
+        <fullName>No_AON_Subscription_found</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No AON Subscription found</shortDescription>
+        <value>No AON Subscription found.</value>
+    </labels>
+    <labels>
+        <fullName>No_Account_Affiliation_Record_Found</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No_Account_Affiliation_Record_Found</shortDescription>
+        <value>The member has no Account Affiliation associated.</value>
+    </labels>
+    <labels>
+        <fullName>No_ActiveCart_Opportunity_Found</fullName>
+        <categories>Visualforce Page</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No_ActiveCart_Opportunity_Found</shortDescription>
+        <value>There is no active cart please contact Management services .</value>
+    </labels>
+    <labels>
+        <fullName>No_Children_Or_Spouse_Found</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No_Children_Or_Spouse/Partner_Found</shortDescription>
+        <value>No Children Or Spouse/Partner Found</value>
+    </labels>
+    <labels>
+        <fullName>No_Contact_Role_Found</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No_Contact_Role_Found</shortDescription>
+        <value>No Contact Role Found</value>
+    </labels>
+    <labels>
+        <fullName>No_Home_Business_Address</fullName>
+        <categories>Set Products</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No Home Address</shortDescription>
+        <value>No Home Address for Contact.</value>
+    </labels>
+    <labels>
+        <fullName>No_Lifetime_Product</fullName>
+        <categories>Set Products</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No Lifetime Product</shortDescription>
+        <value>The Lifetime Membership has not been paid in full.  There are no lifetime products for this opportunity.</value>
+    </labels>
+    <labels>
+        <fullName>No_Opportunity_Record_Found</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No Opportunity Record Found</shortDescription>
+        <value>No opportunity record found</value>
+    </labels>
+    <labels>
+        <fullName>No_Relationship_Record_Found</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No Relationship Record Found</shortDescription>
+        <value>No relationship record found</value>
+    </labels>
+    <labels>
+        <fullName>No_Results</fullName>
+        <categories>AwardsBioPdfView</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No Results</shortDescription>
+        <value>no results.</value>
+    </labels>
+    <labels>
+        <fullName>Non_Qualification</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Non Qualification</shortDescription>
+        <value>Non Qualification</value>
+    </labels>
+    <labels>
+        <fullName>One_Primary_AA</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>One Primary AA</shortDescription>
+        <value>The contact must have ONE Primary and Active Account Affiliation.</value>
+    </labels>
+    <labels>
+        <fullName>Only_One_Primary_CA_Setting</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Only One Primary CA Setting</shortDescription>
+        <value>There can only be one CA_Setting record per Role and chapter that is marked as Primary</value>
+    </labels>
+    <labels>
+        <fullName>Opportunity_Record_Type_Name</fullName>
+        <categories>This is for Lead conversion to Prospect Record type</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Opportunity Record Type Name</shortDescription>
+        <value>Prospect</value>
+    </labels>
+    <labels>
+        <fullName>Page_Not_Saved</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Page couldn&apos;t be saved</shortDescription>
+        <value>Page couldn&apos;t be saved</value>
+    </labels>
+    <labels>
+        <fullName>Partner_User_Custom</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Partner User(Custom)</shortDescription>
+        <value>Partner User</value>
+    </labels>
+    <labels>
+        <fullName>Payment_Error_Message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Payment Error Message</shortDescription>
+        <value>An unexpected error has occurred.  We have been notified and are working to complete your order.  Please DO NOT try to resubmit your payment.</value>
+    </labels>
+    <labels>
+        <fullName>Primary_Membership_Info</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Primary Membership Information</shortDescription>
+        <value>Primary Membership Information</value>
+    </labels>
+    <labels>
+        <fullName>Processing</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Please Wait...</shortDescription>
+        <value>Please Wait...</value>
+    </labels>
+    <labels>
+        <fullName>Public_Interest_Manager</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Public Interest Manager</shortDescription>
+        <value>Public Interest Manager</value>
+    </labels>
+    <labels>
+        <fullName>Qualifying_Company_Error</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Qualifying Company cannot be blank</shortDescription>
+        <value>Qualifying Company cannot be blank</value>
+    </labels>
+    <labels>
+        <fullName>Reason_Is_Required</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Reason is required</shortDescription>
+        <value>Reason is required</value>
+    </labels>
+    <labels>
+        <fullName>Recertification</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Recertification</shortDescription>
+        <value>Recertification</value>
+    </labels>
+    <labels>
+        <fullName>Recertification_YPO_ChangeCompanyConfirm</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Recertification_YPO_ChangeCompanyConfirm</shortDescription>
+        <value>Are you sure you want to change company information</value>
+    </labels>
+    <labels>
+        <fullName>Recertification_YPO_Dismiss</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Recertification_YPO_Dismiss</shortDescription>
+        <value>Dismiss</value>
+    </labels>
+    <labels>
+        <fullName>Recertification_YPO_Gold</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Recertification_YPO_Gold</shortDescription>
+        <value>If you provide this &lt;strong&gt;optional information&lt;/strong&gt;, YPO can better connect you with fellow members.</value>
+    </labels>
+    <labels>
+        <fullName>Recertification_YPO_MainMembership</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Recertification_YPO_MainMembership</shortDescription>
+        <value>Membership Criteria</value>
+    </labels>
+    <labels>
+        <fullName>Recertification_YPO_MustComplete</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Recertification_YPO_MustComplete</shortDescription>
+        <value>**Must verify, update and save to proceed**</value>
+    </labels>
+    <labels>
+        <fullName>Recertification_YPO_Mustverify</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Recertification_YPO_Mustverify</shortDescription>
+        <value>**Must verify, update and save to proceed**</value>
+    </labels>
+    <labels>
+        <fullName>Recertification_YPO_Pleasesubmit</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Recertification_YPO_Pleasesubmit</shortDescription>
+        <value>You are eligible to transition to YPO Gold.</value>
+    </labels>
+    <labels>
+        <fullName>Recertification_YPO_Qualifyingcompany</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Recertification_YPO_Qualifyingcompany</shortDescription>
+        <value>Qualifying company</value>
+    </labels>
+    <labels>
+        <fullName>Recertification_YPO_Recertification</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Recertification_YPO_Recertification</shortDescription>
+        <value>Recertification</value>
+    </labels>
+    <labels>
+        <fullName>Recertification_YPO_YPOGold</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Recertification_YPO_YPOGold</shortDescription>
+        <value>YPO Gold Company Information</value>
+    </labels>
+    <labels>
+        <fullName>Recertification_YPO_Yourareeligible</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Recertification_YPO_Yourareeligible</shortDescription>
+        <value>You are eligible to transition to YPO Gold (and therefore would not be required to recertify).</value>
+    </labels>
+    <labels>
+        <fullName>Recertification_YPO_Yourcompany</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Recertification_YPO_Yourcompany</shortDescription>
+        <value>You are eligible to request grace if your company does not meet the minimum membership requirements.</value>
+    </labels>
+    <labels>
+        <fullName>Recertification_YPO_Yourmember</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Recertification_YPO_Yourmember</shortDescription>
+        <value>Your membership qualifications must be certified, as outlined in the YPO Policy and Procedures Manual.</value>
+    </labels>
+    <labels>
+        <fullName>Recertification_Ypo_RequirementB_Onlyonecompanytype</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Recertification_Ypo_RequirementB_Onlyonecompanytype</shortDescription>
+        <value>Only one company type and corresponding volume/valuation is required</value>
+    </labels>
+    <labels>
+        <fullName>Record_Fetch_Error</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Record Fetch Error</shortDescription>
+        <value>Error fetching the records</value>
+    </labels>
+    <labels>
+        <fullName>Remove</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Remove</shortDescription>
+        <value>Remove</value>
+    </labels>
+    <labels>
+        <fullName>Request_Grace</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Request_Grace</shortDescription>
+        <value>Request Grace</value>
+    </labels>
+    <labels>
+        <fullName>Request_Transition</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Request Transition</shortDescription>
+        <value>Request Transition</value>
+    </labels>
+    <labels>
+        <fullName>Required_Field_Missing</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required Field Missing</shortDescription>
+        <value>Fields marked with red asterisk are required.</value>
+    </labels>
+    <labels>
+        <fullName>Save</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Save</shortDescription>
+        <value>Save</value>
+    </labels>
+    <labels>
+        <fullName>Save_And_Continue</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Save_And_Continue</shortDescription>
+        <value>Save And Continue</value>
+    </labels>
+    <labels>
+        <fullName>School_Name</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>School Name</shortDescription>
+        <value>School Name</value>
+    </labels>
+    <labels>
+        <fullName>Search_String_Blank_Message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Search String Blank Message</shortDescription>
+        <value>Search term must be longer than one character</value>
+    </labels>
+    <labels>
+        <fullName>Skillset_Manager</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Skillset Manager</shortDescription>
+        <value>Skillset Manager</value>
+    </labels>
+    <labels>
+        <fullName>Skillsets</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Skillsets</shortDescription>
+        <value>Skillsets</value>
+    </labels>
+    <labels>
+        <fullName>SplashHeaderText</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Header Text For Every Splash Page</shortDescription>
+        <value>We have a great year ahead – in our chapters, regions and around the world. More than 60 years after our founding, YPO-YPO Gold has grown into the leading network of chief executives. With the broadest and deepest global membership, we connect successful business leaders with one another through lifelong learning and idea exchange.
+		&lt;/br&gt;
+		&lt;/br&gt;
+		Thank you for continuing the YPO-YPO Gold journey and for committing to the organization and your peers. Please take a minute to learn more about membership benefits curated especially for you</value>
+    </labels>
+    <labels>
+        <fullName>SplashHeaderTitleText</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Header Tile Text For Every Splash Page</shortDescription>
+        <value>Explore Membership Benefits</value>
+    </labels>
+    <labels>
+        <fullName>Spouse_Details</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Spouse Details</shortDescription>
+        <value>Your Spouse/Partner Information</value>
+    </labels>
+    <labels>
+        <fullName>Submit</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Submit</shortDescription>
+        <value>Submit</value>
+    </labels>
+    <labels>
+        <fullName>ThankYouPageContent</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThankYouPageContent</shortDescription>
+        <value>Thank you for providing additional data.</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCert_FAQ1_Answer1</fullName>
+        <categories>ThirdPartyCertification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCert_FAQ1_Answer1</shortDescription>
+        <value>YPO members must third party certify every third year until he/she transitions to YPO Gold.</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCert_FAQ1_Answer2</fullName>
+        <categories>ThirdPartyCertification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCert_FAQ1_Answer2</shortDescription>
+        <value>YPO members who will serve on the Board of Directors or on one of the following committees in FY2018-2019: Learning committee, Family committee, Forum committee, Flagship Events committee, Internet Steering Committee, Membership committee, Networks committee, Chapters and Regions committee.</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCert_FAQ1_Answer3</fullName>
+        <categories>ThirdPartyCertification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCert_FAQ1_Answer3</shortDescription>
+        <value>YPO Members who are currently on grace.</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCert_FAQ1_Answer4</fullName>
+        <categories>ThirdPartyCertification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCert_FAQ1_Answer4</shortDescription>
+        <value>YPO Members reinstating after being absent for more than one year.</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCert_FAQ1_Label</fullName>
+        <categories>ThirdPartyCertification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCert_FAQ1_Label</shortDescription>
+        <value>Who must third party certify?</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCert_FAQ2_Answer1</fullName>
+        <categories>ThirdPartyCertification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCert_FAQ2_Answer1</shortDescription>
+        <value>YPO Gold members or members transitioning to YPO Gold in FY2018-2019.</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCert_FAQ2_Answer2</fullName>
+        <categories>ThirdPartyCertification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCert_FAQ2_Answer2</shortDescription>
+        <value>YPO members who have qualified for six or more years without grace (new policy as of 1 July 2016). This does not include their application year. If an YPO member has completed six or more years without grace, the member will only be required to self-certify until he/she transitions to YPO Gold.</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCert_FAQ2_Answer3</fullName>
+        <categories>ThirdPartyCertification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCert_FAQ2_Answer3</shortDescription>
+        <value>YPO members who have completed four third party certifications (new policy as of 1 July 2016). This does not include third party certifications for leadership roles and/or requalifying after a period of grace. Members who have completed four third party certifications will only be required to self-certify until he/she transitions to YPO Gold.</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCert_FAQ2_Label</fullName>
+        <categories>ThirdPartyCertification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCert_FAQ2_Label</shortDescription>
+        <value>Who does not have to third party certify?</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCert_FAQ3_Answer1</fullName>
+        <categories>ThirdPartyCertification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCert_FAQ3_Answer1</shortDescription>
+        <value>An external CPA, independent Auditor, Chartered Accountant or Attorney (not an employee of the members qualifying company).</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCert_FAQ3_Answer2</fullName>
+        <categories>ThirdPartyCertification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCert_FAQ3_Answer2</shortDescription>
+        <value>Company annual report or 10K filing is acceptable if: 
+&lt;ul&gt;
+&lt;li&gt;Members name/title and specific qualifying criteria is included (if member presides over a specific division, that division information must be reported separately within the annual report or 10k filing).&lt;/li&gt;
+&lt;li&gt;Prepared and signed by an external CPA, independent Auditor or Chartered Accountant.&lt;/li&gt;
+&lt;/ul&gt;</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCert_FAQ3_Label</fullName>
+        <categories>ThirdPartyCertification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCert_FAQ3_Label</shortDescription>
+        <value>Who qualifies as a third-party verifier?</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCert_FAQ4_Answer1</fullName>
+        <categories>ThirdPartyCertification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCert_FAQ4_Answer1</shortDescription>
+        <value>A letter on company letterhead may be submitted along with the completed third party certification form.</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCert_FAQ4_Answer2</fullName>
+        <categories>ThirdPartyCertification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCert_FAQ4_Answer2</shortDescription>
+        <value>The letter must state that the company does not employ an external CPA, or Chartered Accounting firm.</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCert_FAQ4_Answer3</fullName>
+        <categories>ThirdPartyCertification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCert_FAQ4_Answer3</shortDescription>
+        <value>Both the letter and third party certification must be signed by the company’s highest ranking financial officer e.g. CFO.</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCert_FAQ4_Label</fullName>
+        <categories>ThirdPartyCertification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCert_FAQ4_Label</shortDescription>
+        <value>What if my company does not use an extenal CPA, independent auditor or chartered accountant, or prepare an annual report or 10k filing?</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCert_Footer</fullName>
+        <categories>ThirdPartyCertification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCert_Footer</shortDescription>
+        <value>&lt;p&gt;
+    &lt;b&gt;Return this form to:&lt;/b&gt;&lt;br/&gt;
+    &lt;b&gt;YPO Member Services&lt;/b&gt; 600 East Las Colinas Blvd, Suite 1100, Irving, Texas 75039, USA&lt;br/&gt;
+    +1 800 773 7976  |  +1 972 587 1618  |  +1 972 587 1500&lt;br/&gt;
+    &lt;b&gt;Email:&lt;/b&gt; membership@ypo.org  |  &lt;b&gt;Fax:&lt;/b&gt; +1 972 587 1611 or +1 972 587 1612
+&lt;/p&gt;</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCert_Greeting</fullName>
+        <categories>ThirdPartyCertification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCert_Greeting</shortDescription>
+        <value>&lt;p&gt;Dear YPO Member,&lt;/p&gt;
+&lt;p&gt;Thank you for saying yes to continuing your uniquely personal journey as a YPO member. We value your ideas, contributions and commitment to YPO.&lt;/p&gt;
+&lt;p&gt;Please review the certification information below. Note all renewal and payments must be submitted before the deadline {0}.&lt;/p&gt;
+&lt;p&gt;Sincerely,&lt;/p&gt;
+&lt;p&gt;YPO Member Services&lt;/p&gt;
+&lt;p&gt;Please complete by following the steps below.&lt;/p&gt;</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCert_Revision</fullName>
+        <categories>ThirdPartyCertification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCert_Revision</shortDescription>
+        <value>November 2017</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCert_Step1</fullName>
+        <categories>ThirdPartyCertification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCert_Step1</shortDescription>
+        <value>&lt;span&gt;&lt;/span&gt;</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCert_Step2_Label1</fullName>
+        <categories>ThirdPartyCertification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCert_Step2_Label1</shortDescription>
+        <value>&lt;p&gt;
+    &lt;strong class=&quot;upcase&quot;&gt;Company Requirements&lt;/strong&gt;&lt;br/&gt;
+    All currency amounts are in U.S. dollars only, including all zeros and commas (e.g., USD10,000,000 = 10 million U.S. dollars)
+&lt;/p&gt;</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCert_Step2_ReqA</fullName>
+        <categories>ThirdPartyCertification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCert_Step2_ReqA</shortDescription>
+        <value>&lt;p&gt;
+&lt;strong class=&quot;upcase&quot;&gt;Requirement A: Company Size&lt;/strong&gt;
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;td class=&quot;td-8&quot;&gt;Number of regular full-time employees or equivalent:&lt;/td&gt;
+        &lt;td class=&quot;td-4&quot;&gt;{0}&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Total annual compensation of all employees, excluding the member’s compensation:&lt;/td&gt;
+        &lt;td&gt;USD{1}&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+&lt;/p&gt;</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCert_Step2_ReqB</fullName>
+        <categories>ThirdPartyCertification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCert_Step2_ReqB</shortDescription>
+        <value>&lt;p&gt;
+&lt;strong class=&quot;upcase&quot;&gt;Requirement B: Company Value&lt;/strong&gt;
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;td class=&quot;td-8&quot;&gt;Type of Corporation&lt;/td&gt;
+        &lt;td class=&quot;td-4&quot;&gt;{0}&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Annual revenue (dollar volume)&lt;/td&gt;
+        &lt;td&gt;USD{1}&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td style=&quot;padding-left:25px;&quot;&gt;OR&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Enterprise type&lt;/td&gt;
+        &lt;td&gt;{2}&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Enterprise value&lt;/td&gt;
+        &lt;td&gt;USD{3}&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+&lt;/p&gt;</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCert_Step3</fullName>
+        <categories>ThirdPartyCertification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCert_Step3</shortDescription>
+        <value>&lt;strong&gt;Member Signature:&amp;nbsp;___________________________________________________________&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Date:&amp;nbsp;___________________&lt;/strong&gt;</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCert_Step4</fullName>
+        <categories>ThirdPartyCertification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCert_Step4</shortDescription>
+        <value>&lt;h4&gt;Please select third party option.&lt;/h4&gt;
+Refer to FAQ on last page for further explanations on third party verification options.</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCert_Step4_Opt1</fullName>
+        <categories>ThirdPartyCertification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCert_Step4_Opt1</shortDescription>
+        <value>&lt;p&gt;
+&lt;img src=&quot;/img/checkbox_unchecked.gif&quot;/&gt;
+&lt;b&gt;Option #1 - Qualifying company annual report or 10k filing prepared by a qualified third party is attached.&lt;/b&gt;  Please note that the annual report or 10k filing submitted must be in English.
+&lt;/p&gt;</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCert_Step4_Opt2</fullName>
+        <categories>ThirdPartyCertification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCert_Step4_Opt2</shortDescription>
+        <value>&lt;p&gt;
+&lt;img src=&quot;/img/checkbox_unchecked.gif&quot;/&gt;
+&lt;b&gt;Option #2 – Independent third party verifier.&lt;/b&gt;  The information below must be filled out by the external auditor or third party (may not be not the member or an employee of the member’s company).&lt;/p&gt;
+&lt;p&gt;
+I certify that the above information is correct according to corporate accounting, payroll records and minute books, and that the member maintains the highest position possible in the company and/or division indicated on this form.
+&lt;/p&gt;</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCert_Step4_Opt2_Table</fullName>
+        <categories>ThirdPartyCertification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCert_Step4_Opt2_Table</shortDescription>
+        <value>&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td class=&quot;td-2&quot;&gt;&lt;b&gt;NAME: &lt;small&gt;(please print)&lt;/small&gt;&lt;/b&gt;&lt;/td&gt;
+		&lt;td class=&quot;td-4 bottom-border&quot;&gt;&lt;/td&gt;
+		&lt;td class=&quot;td-2&quot;&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;ROLE:&lt;/b&gt;&lt;/td&gt;
+		&lt;td class=&quot;td-4&quot; style=&quot;text-align:center;&quot;&gt;
+			&lt;span&gt;&lt;img src=&quot;/img/checkbox_unchecked.gif&quot;/&gt;CPA&lt;/span&gt;
+			&lt;span&gt;&lt;img src=&quot;/img/checkbox_unchecked.gif&quot;/&gt;CA&lt;/span&gt;
+			&lt;span&gt;&lt;img src=&quot;/img/checkbox_unchecked.gif&quot;/&gt;Attorney&lt;/span&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;b&gt;COMPANY:&lt;/b&gt;&lt;/td&gt;
+		&lt;td class=&quot;bottom-border&quot;&gt;&lt;/td&gt;
+		&lt;td&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;COMPANY TYPE:&lt;/b&gt;&lt;/td&gt;
+		&lt;td class=&quot;bottom-border&quot;&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;b&gt;PHONE:&lt;/b&gt;&lt;/td&gt;
+		&lt;td class=&quot;bottom-border&quot;&gt;&lt;/td&gt;
+		&lt;td&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;EMAIL:&lt;/b&gt;&lt;/td&gt;
+		&lt;td class=&quot;bottom-border&quot;&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;b&gt;SIGNATURE:&lt;/b&gt;&lt;/td&gt;
+		&lt;td class=&quot;bottom-border&quot;&gt;&lt;/td&gt;
+		&lt;td&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;DATE:&lt;/b&gt;&lt;/td&gt;
+		&lt;td class=&quot;bottom-border&quot;&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCert_Step4_Opt3</fullName>
+        <categories>ThirdPartyCertification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCert_Step4_Opt3</shortDescription>
+        <value>&lt;p&gt;
+&lt;img src=&quot;/img/checkbox_unchecked.gif&quot;/&gt;
+&lt;b&gt;Option #3 - Company does not employ an external auditor.  &lt;/b&gt;
+The information below must be filled out by the company treasurer, chief financial officer, accounting officer or highest ranking financial officer. This form must be accompanied with a signed letter on company letterhead verifying that the company does not employ an external auditor and the information supplied on the certification form is correct.
+&lt;/p&gt;
+&lt;p&gt;
+I certify that the above information is correct according to corporate accounting, payroll records and minute books, and that the member maintains the highest position possible in the company and/or division indicated on this form.
+&lt;/p&gt;</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCert_Step4_Opt3_Table</fullName>
+        <categories>ThirdPartyCertification</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCert_Step4_Opt3_Table</shortDescription>
+        <value>&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td class=&quot;td-2&quot;&gt;&lt;b&gt;NAME: &lt;small&gt;(please print)&lt;/small&gt;&lt;/b&gt;&lt;/td&gt;
+		&lt;td class=&quot;td-4 bottom-border&quot;&gt;&lt;/td&gt;
+		&lt;td class=&quot;td-2&quot;&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;TITLE:&lt;/b&gt;&lt;/td&gt;
+		&lt;td class=&quot;td-4 bottom-border&quot;&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;b&gt;PHONE:&lt;/b&gt;&lt;/td&gt;
+		&lt;td class=&quot;bottom-border&quot;&gt;&lt;/td&gt;
+		&lt;td&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;EMAIL:&lt;/b&gt;&lt;/td&gt;
+		&lt;td class=&quot;bottom-border&quot;&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;b&gt;SIGNATURE:&lt;/b&gt;&lt;/td&gt;
+		&lt;td class=&quot;bottom-border&quot;&gt;&lt;/td&gt;
+		&lt;td&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;DATE:&lt;/b&gt;&lt;/td&gt;
+		&lt;td class=&quot;bottom-border&quot;&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCertification_YPO_Aftercompleting</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCertification_YPO_Aftercompleting</shortDescription>
+        <value>Please click Save (in lower right corner below)  to send your certification information to your verifier.</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCertification_YPO_AnnualReport</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCertification_YPO_AnnualReport</shortDescription>
+        <value>Annual Report</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCertification_YPO_ContactMemberServices</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCertification_YPO_ContactMemberServices</shortDescription>
+        <value>Renew your membership for a lifetime today!</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCertification_YPO_Dismis</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCertification_YPO_Dismis</shortDescription>
+        <value>Dismiss</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCertification_YPO_DocumentType</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCertification_YPO_DocumentType</shortDescription>
+        <value>Document Type</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCertification_YPO_Document_Type</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCertification_YPO_Document_Type</shortDescription>
+        <value>Document Type</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCertification_YPO_Exit</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCertification_YPO_Exit</shortDescription>
+        <value>Exit</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCertification_YPO_IamInterested</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCertification_YPO_IamInterested</shortDescription>
+        <value>I&apos;m Interested</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCertification_YPO_IfYouBelieve</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCertification_YPO_IfYouBelieve</shortDescription>
+        <value>If you believe there is an error, please Contact Member Services.</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCertification_YPO_IfYouNeed</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCertification_YPO_IfYouNeed</shortDescription>
+        <value>If you need additional time to collect this information you may proceed with online renewal and come back to complete your recertification by selecting the &quot;Start Here&quot; renewal link on your home page.</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCertification_YPO_Pleaseprovide</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCertification_YPO_Pleaseprovide</shortDescription>
+        <value>Please provide a link to the URL containing your company’s documentation.</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCertification_YPO_Remove</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCertification_YPO_Remove</shortDescription>
+        <value>Remove</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCertification_YPO_RequestGrace</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCertification_YPO_RequestGrace</shortDescription>
+        <value>Request Grace</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCertification_YPO_ThankYourMembership</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCertification_YPO_ThankYourMembership</shortDescription>
+        <value>You began your YPO journey to become a better leader. Now, extend your membership for a lifetime. Interested? Please select ‘Contact Me About Lifetime’ and I will answer any questions you may have regarding benefits and payment options.
+&lt;br /&gt;&lt;br /&gt;
+Thank you for your commitment to YPO!
+&lt;br /&gt;&lt;br /&gt;
+Yeukai Chikwati&lt;br /&gt;
+Membership Specialist&lt;br /&gt;
+YPO&lt;br /&gt;
+ychikwati@ypo.org&lt;br /&gt;
++1 972 587 1618&lt;br /&gt;
++1 800 773 7976</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCertification_YPO_ThankYourMembershipContactMembershipServices</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCertification_YPO_ThankYourMembershipContactMembershipServices</shortDescription>
+        <value>Thank you for your membership. The information you provided does not appear to meet the minimum eligibility requirements for renewal.Please select the ‘Back’ option below if you need to adjust your company information. Alternatively, you may select the ‘Request Grace’ option noted above. Grace provides flexibility for membership for a limited amount of time; all grace requests will go through an approval process.
+
+If you believe there is an error, please contact YPO Member Services:</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCertification_YPO_ThirdPartyCertification</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCertification_YPO_ThirdPartyCertification</shortDescription>
+        <value>Third Party Certification</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCertification_YPO_ThirdPartyCertification_Certification</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCertification_YPO_ThirdPartyCertification_Certification</shortDescription>
+        <value>Certification documents were printed</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCertification_YPO_ThirdPartyCertification_CertificationForm</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCertification_YPO_ThirdPartyCertification_CertificationForm</shortDescription>
+        <value>YPO Third Party Certification Form FY2016-2017</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCertification_YPO_ThirdPartyCertificationrequires</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCertification_YPO_ThirdPartyCertificationrequires</shortDescription>
+        <value>Third party certification requires that your qualifying criteria be verified by your company’s
+                    independent auditing firm, certified public accountant, chartered accountant or attorney, or by your
+                    company’s treasurer, financial officer or accounting officer if you do not employ an external
+                    auditor. Please select and complete an option below:</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCertification_YPO_ThridPartyCompnayName</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCertification_YPO_ThridPartyCompnayName</shortDescription>
+        <value>Third party company name</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCertification_YPO_ThridPartyEmail</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCertification_YPO_ThridPartyEmail</shortDescription>
+        <value>Third party email</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCertification_YPO_ThridPartyFullname</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCertification_YPO_ThridPartyFullname</shortDescription>
+        <value>Third party full name</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCertification_YPO_ThridPartyPhoneNumber</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCertification_YPO_ThridPartyPhoneNumber</shortDescription>
+        <value>Third party phone number</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCertification_YPO_YouAreEligible</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCertification_YPO_YouAreEligible</shortDescription>
+        <value>You are eligible to transition to YPO Gold (and therefore would not be required to recertify).</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCertification_YPO_YourCompanyMay</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCertification_YPO_YourCompanyMay</shortDescription>
+        <value>You are eligible to request grace if your company does not meet the minimum membership requirements.</value>
+    </labels>
+    <labels>
+        <fullName>ThirdPartyCertification_YPO_weareSorry</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ThirdPartyCertification_YPO_weareSorry</shortDescription>
+        <value>The company information you provided does not appear to meet the minimum eligibility requirements for membership, which are set by the YPO Board of Directors.</value>
+    </labels>
+    <labels>
+        <fullName>Third_Party_Certification</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Third Party Certification</shortDescription>
+        <value>Third Party Certification</value>
+    </labels>
+    <labels>
+        <fullName>Transition_YPO_Back</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Transition_YPO_Back</shortDescription>
+        <value>You have already elected to transition to YPO Gold. If you would like to change your selection back to YPO and not transition, please contact Member Services.\n\nEMAIL\nmembership@ypo.org\n\nPHONE\n+1 972 587 1618\n+1 800 773 7976</value>
+    </labels>
+    <labels>
+        <fullName>Transition_YPO_Gold_Eligible</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Transition_YPO_Gold_Eligible</shortDescription>
+        <value>Welcome to the YPO Gold Transition page.</value>
+    </labels>
+    <labels>
+        <fullName>Transition_YPO_Gold_FromTheSelection</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Transition_YPO_Gold_FromTheSelection</shortDescription>
+        <value>&lt;p&gt;From the selections below, please request a YPO Gold chapter to join. Your request must be approved by the chapter, and will be coordinated outside of the renewal process. &lt;strong&gt;This action cannot be undone without contacting YPO Member Services.&lt;/strong&gt;&lt;/p&gt;</value>
+    </labels>
+    <labels>
+        <fullName>Transition_YPO_Gold_TheChapterListIncludes</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Transition_YPO_Gold_TheChapterListIncludes</shortDescription>
+        <value>&lt;p&gt;The chapter list includes integrated chapters. If you are currently in an integrated chapter, please select your chapter.&lt;/p&gt;</value>
+    </labels>
+    <labels>
+        <fullName>Transition_YPO_Gold_WhatIsYpoGold</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Transition_YPO_Gold_WhatIsYpoGold</shortDescription>
+        <value>What is YPO Gold?</value>
+    </labels>
+    <labels>
+        <fullName>Transition_YPO_Thegraduation</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Transition_YPO_Thegraduation</shortDescription>
+        <value>If you are 50 years old as of 30 June 2018, you will transition to YPO Gold this year and select a new chapter below.</value>
+    </labels>
+    <labels>
+        <fullName>Transition_YPO_Thegraduation2</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Transition_YPO_Thegraduation2</shortDescription>
+        <value>You also may have come to this page because you are eligible to transition to YPO Gold based upon your age and tenure. You can transition to YPO Gold if you are at least 45 years old and have been a YPO member for at least three years excluding any grace. Please see below for chapter selection should you elect to transition now, or select the &quot;Back&quot; button if you do not want to transition to YPO Gold this year.</value>
+    </labels>
+    <labels>
+        <fullName>Transition_YPO_Transitionoptions</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Transition_YPO_Transitionoptions</shortDescription>
+        <value>YPO Chapter Selection</value>
+    </labels>
+    <labels>
+        <fullName>Transition_YPO_YPOGoldTransitionOption</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Transition_YPO_YPOGoldTransitionOption</shortDescription>
+        <value>YPO Gold Transition</value>
+    </labels>
+    <labels>
+        <fullName>Type</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Type</shortDescription>
+        <value>Type</value>
+    </labels>
+    <labels>
+        <fullName>UpdateChapterHealthDailyBatchProcessedJobsFailMessage</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>UpdateChapterHealthDailyBatchProcessedJobsFailMessage</shortDescription>
+        <value>. The number of jobs processed does not match the total number of jobs:</value>
+    </labels>
+    <labels>
+        <fullName>UpdateORConfirm</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>UpdateORConfirm</shortDescription>
+        <value>Update/Confirm</value>
+    </labels>
+    <labels>
+        <fullName>UpdateProfileInfo_Beforeleveraging</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>UpdateProfileInfo_Beforeleveraging</shortDescription>
+        <value>Unlock the power of YPO connections by completing your member profile and family information.</value>
+    </labels>
+    <labels>
+        <fullName>UpdateProfileInfo_UpdateProfile</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>UpdateProfileInfo_UpdateProfile</shortDescription>
+        <value>Update Profile</value>
+    </labels>
+    <labels>
+        <fullName>UpdateProfileInfo_YPO_Back</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>UpdateProfileInfo_YPO_Back</shortDescription>
+        <value>Back</value>
+    </labels>
+    <labels>
+        <fullName>UpdateProfileInfo_Youhavenofamily</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>UpdateProfileInfo_Youhavenofamily</shortDescription>
+        <value>You have no family listed. Please click the edit icon to begin adding family members</value>
+    </labels>
+    <labels>
+        <fullName>Update_Confirm</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Update and Confirm</shortDescription>
+        <value>Update and Confirm</value>
+    </labels>
+    <labels>
+        <fullName>Welcome</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome</shortDescription>
+        <value>Welcome</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_Confirmandupdate_MorePoints</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome_Confirmandupdate_MorePoints</shortDescription>
+        <value>&lt;li&gt;Confirm and update your contact, family and company information on your profile.&lt;/li&gt;&lt;li&gt;Select optional exclusive benefits.&lt;/li&gt;&lt;li&gt;Review and accept the YPO Code of Conduct.&lt;/li&gt;&lt;li&gt;Pay your member dues.&lt;/li&gt;</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_Header_Member</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome Header - Member</shortDescription>
+        <value>Stay connected to the power of YPO</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_Header_Prospect</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome Header - Prospect</shortDescription>
+        <value>Welcome to YPO</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_Ifyouneedassistance</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome_Ifyouneedassistance</shortDescription>
+        <value>If you need assistance at any time, the YPO Member Services team is ready to help. Contact YPO at +1 800 733 7976 or +1 972 587 1618 or email membership@ypo.org.</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_Message_Member</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome Message - Member</shortDescription>
+        <value>Continue to enrich your personal journey with all the leadership, learning and lifelong benefits YPO offers. There is no better time to be a member of YPO.</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_Message_Prospect</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome Message - Prospect</shortDescription>
+        <value>Thank you for saying yes to the premier leadership organization of chief executives in the world. You are only a few steps away from beginning your journey as a YPO member.</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_Ouraim_OnBehalf</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome_Ouraim_OnBehalf</shortDescription>
+        <value>&lt;p&gt;Our aim is for your renewal to be simple. If at any time you need assistance, YPO-WPO Member Services is ready. 
+Call YPO-WPO or simply reach out to your chapter administrator.
+&lt;/p&gt;
+&lt;p&gt;On behalf of the International Board and my successor as International Chairman, 
+Santiago Sanchez, we again thank you for your membership and dedication to YPO-WPO. Have a great year!
+&lt;/p&gt;</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_Page_Quote_Info</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome Page Quote Info</shortDescription>
+        <value>2017–2018 YPO Chairman&lt;br/&gt;
+(YPO New York City, YPO Alcatraz, YPO Greater Germany, YPO Americas Gateway)</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_Page_Quote_Text</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome Page Quote Text</shortDescription>
+        <value>&quot;The unique value of YPO is most apparent in its diversity of people, programs and experiences. Through the power of our YPO connections, members create impact in their lives, communities and the world. May we all continue our journey together in the coming year.&quot;</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_Page_Quote_Who</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome Page Quote Who</shortDescription>
+        <value>Randy Waterfield</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_Sincerly</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome_Sincerly</shortDescription>
+        <value>Sincerely, &lt;br/&gt;
+McKeel Hagerty (YPO West Michigan) &lt;br/&gt;
+2016-2017 YPO Chairman &lt;br/&gt;</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_Thankyou</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome_Thankyou</shortDescription>
+        <value>Thank you for saying yes to the premier leadership organization of chief executives in the world. You are only a few steps away from beginning your journey as a YPO member. On the next few screens, you will have the opportunity to:</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_ThankyouYestocontinuing</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome_ThankyouYestocontinuing</shortDescription>
+        <value>&lt;p&gt;Thank you for saying yes to continuing your uniquely personal journey as a YPO or WPO member. We value your ideas, contributions and commitment to YPO-WPO.&lt;/p&gt;
+Renewing online should take between 15-25 minutes depending on any need  to recertify, request grace or pay by wire transfer.</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_Thefirststep</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome_Thefirststep</shortDescription>
+        <value>&lt;li&gt; The first step is to review and accept the YPO-WPO Code of Conduct. As members, we hold ourselves and each other accountable. We do this by our code of conduct, which every member is requried to accept in order to renew membership.&lt;/li&gt;
+&lt;li&gt;After accepting the code of conduct, you have the opportunity to confirm and update your contact and family information in your profile.
+&lt;/li&gt;
+ &lt;li&gt;You will have the option to select new benefits offered this year: the YNG+ program for young adult childern ages 18-29 and YPO-WPO Healthwise, an M2Mx global health solution for you and your family. Additional details are provided in the online renewal page that outlines the benefits.
+&lt;/li&gt;</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_Tile_1_Detail_Member</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome Tile 1 Detail - Member</shortDescription>
+        <value>Confirm and update your contact, family, and business information.</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_Tile_1_Detail_Prospect</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome Tile 1 Detail - Prospect</shortDescription>
+        <value>Confirm and update your contact, family, and business information.</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_Tile_1_Heading_Member</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome Tile 1 Heading - Member</shortDescription>
+        <value>Update Your Profile</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_Tile_1_Heading_Prospect</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome Tile 1 Heading - Prospect</shortDescription>
+        <value>Update Your Profile</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_Tile_1_Sub_Heading_Member</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome Tile 1 Sub Heading - Member</shortDescription>
+        <value>All members</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_Tile_1_Sub_Heading_Prospect</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome Tile 1 Sub Heading - Prospect</shortDescription>
+        <value>&lt;span&gt;&lt;/span&gt;</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_Tile_2_Detail_Member</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome Tile 2 Detail - Member</shortDescription>
+        <value>Certification as required by the YPO &quot;Policies and Procedures Manual.&quot;</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_Tile_2_Detail_Prospect</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome Tile 2 Detail - Prospect</shortDescription>
+        <value>Review and accept the YPO Code of Conduct.</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_Tile_2_Heading_Member</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome Tile 2 Heading - Member</shortDescription>
+        <value>Update Company Information</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_Tile_2_Heading_Prospect</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome Tile 2 Heading - Prospect</shortDescription>
+        <value>Accept Code of Conduct</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_Tile_2_Sub_Heading_Member</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome Tile 2 Sub Heading - Member</shortDescription>
+        <value>Identified members</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_Tile_2_Sub_Heading_Prospect</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome Tile 2 Sub Heading - Prospect</shortDescription>
+        <value>&lt;span&gt;&lt;/span&gt;</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_Tile_3_Detail_Member</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome Tile 3 Detail - Member</shortDescription>
+        <value>Select and purchase optional exclusive benefits; pay member and/or chapter dues.</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_Tile_3_Detail_Prospect</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome Tile 3 Detail - Prospect</shortDescription>
+        <value>Select and purchase optional exclusive benefits and pay your member dues.</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_Tile_3_Heading_Member</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome Tile 3 Heading - Member</shortDescription>
+        <value>Choose Benefits and Pay</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_Tile_3_Heading_Prospect</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome Tile 3 Heading - Prospect</shortDescription>
+        <value>Choose Benefits and Pay</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_Tile_3_Sub_Heading_Member</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome Tile 3 Sub Heading - Member</shortDescription>
+        <value>All members</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_Tile_3_Sub_Heading_Prospect</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome Tile 3 Sub Heading - Prospect</shortDescription>
+        <value>&lt;span&gt;&lt;/span&gt;</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_WelcomeToYPO</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome_WelcomeToYPO</shortDescription>
+        <value>Welcome to YPO</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_YPO_Continue</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome_YPO_Continue</shortDescription>
+        <value>Continue</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_YPOtransformes</fullName>
+        <categories>Invisionapp_YPO</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome_YPOtransformes</shortDescription>
+        <value>&lt;p&gt;YPO members harness the knowledge, influence and trust of the world’s leading and most innovative business leaders to inspire business, personal, family and community impact.
+&lt;/p&gt;
+
+&lt;p&gt;
+On behalf of the YPO Board of Directors, we welcome you as a YPO member.
+&lt;/p&gt;</value>
+    </labels>
+    <labels>
+        <fullName>What_other_Organizations_are_you_a_member_of</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>What other Organizations are you a member of?</shortDescription>
+        <value>What other Organizations are you a member of?</value>
+    </labels>
+    <labels>
+        <fullName>YNG_Product_Quick_Create_Page_Header</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>YNG Product Quick Create Page Header</shortDescription>
+        <value>YNG OLI</value>
+    </labels>
+    <labels>
+        <fullName>YPO_Gold_Transition_Option</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>YPO Gold Transition Option</shortDescription>
+        <value>The graduation age for all YPO members is 50</value>
+    </labels>
+    <labels>
+        <fullName>Year</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Year</shortDescription>
+        <value>Year</value>
+    </labels>
+    <labels>
+        <fullName>Your_Membership_Information</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Your Membership Information</shortDescription>
+        <value>Your Membership Information</value>
+    </labels>
+    <labels>
+        <fullName>Your_Profile_Information</fullName>
+        <categories>Renewals</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Your Profile Information</shortDescription>
+        <value>Your Profile Information</value>
+    </labels>
+</CustomLabels>

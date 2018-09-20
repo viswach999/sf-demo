@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApprovalProcess xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <allowRecall>true</allowRecall>
+    <allowedSubmitters>
+        <type>owner</type>
+    </allowedSubmitters>
+    <approvalPageFields>
+        <field>Name</field>
+        <field>Owner</field>
+        <field>FingerTip__Decision__c</field>
+        <field>FingerTip__Type_of_Approval__c</field>
+        <field>FingerTip__Role__c</field>
+    </approvalPageFields>
+    <approvalStep>
+        <allowDelegate>false</allowDelegate>
+        <assignedApprover>
+            <approver>
+                <name>FingerTip__User__c</name>
+                <type>relatedUserField</type>
+            </approver>
+            <whenMultipleApprovers>FirstResponse</whenMultipleApprovers>
+        </assignedApprover>
+        <label>Role Acceptance</label>
+        <name>Role_Acceptance</name>
+    </approvalStep>
+    <description>This approval process is triggered on share phase and sent to the people who are part of the decision. The objective of this approval process if to obtain the role acceptance of the people participating in the decision if required</description>
+    <emailTemplate>FingerTip__Decision_Email_Templates/FingerTip__Email_template_for_role_acceptance_v4</emailTemplate>
+    <enableMobileDeviceAccess>false</enableMobileDeviceAccess>
+    <entryCriteria>
+        <formula>FingerTip__Role_Acceptance_Entry_Criteria__c</formula>
+    </entryCriteria>
+    <finalApprovalActions>
+        <action>
+            <name>FingerTip__UpdateRoleAcceptanceStatusApprove</name>
+            <type>FieldUpdate</type>
+        </action>
+    </finalApprovalActions>
+    <finalApprovalRecordLock>false</finalApprovalRecordLock>
+    <finalRejectionActions>
+        <action>
+            <name>FingerTip__UpdateRoleAcceptanceStatusReject</name>
+            <type>FieldUpdate</type>
+        </action>
+    </finalRejectionActions>
+    <finalRejectionRecordLock>false</finalRejectionRecordLock>
+    <initialSubmissionActions>
+        <action>
+            <name>FingerTip__UpdateRoleAcceptanceStatusPending</name>
+            <type>FieldUpdate</type>
+        </action>
+    </initialSubmissionActions>
+    <label>Fingertip Role Acceptance</label>
+    <recordEditability>AdminOnly</recordEditability>
+    <showApprovalHistory>false</showApprovalHistory>
+</ApprovalProcess>

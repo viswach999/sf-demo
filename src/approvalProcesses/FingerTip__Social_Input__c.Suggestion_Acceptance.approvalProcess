@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApprovalProcess xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <allowRecall>true</allowRecall>
+    <allowedSubmitters>
+        <type>owner</type>
+    </allowedSubmitters>
+    <approvalPageFields>
+        <field>Name</field>
+        <field>Owner</field>
+        <field>FingerTip__Decision__c</field>
+        <field>FingerTip__Type_of_Approval__c</field>
+        <field>FingerTip__Role__c</field>
+    </approvalPageFields>
+    <approvalStep>
+        <allowDelegate>false</allowDelegate>
+        <assignedApprover>
+            <approver>
+                <name>FingerTip__User__c</name>
+                <type>relatedUserField</type>
+            </approver>
+            <whenMultipleApprovers>FirstResponse</whenMultipleApprovers>
+        </assignedApprover>
+        <label>Suggestion Acceptance</label>
+        <name>Suggestion_Acceptance</name>
+    </approvalStep>
+    <description>Suggestion Approval</description>
+    <enableMobileDeviceAccess>false</enableMobileDeviceAccess>
+    <entryCriteria>
+        <formula>AND(NOT(ISNULL(FingerTip__Suggestion__c)),OR( FingerTip__Accountable__c, FingerTip__Backup_for_Accountable__c , FingerTip__Responsible__c, FingerTip__Consulted__c ) )</formula>
+    </entryCriteria>
+    <finalApprovalActions>
+        <action>
+            <name>FingerTip__UpdateApprovedFor</name>
+            <type>FieldUpdate</type>
+        </action>
+        <action>
+            <name>FingerTip__UpdateStanceStatusApproved</name>
+            <type>FieldUpdate</type>
+        </action>
+    </finalApprovalActions>
+    <finalApprovalRecordLock>false</finalApprovalRecordLock>
+    <finalRejectionActions>
+        <action>
+            <name>FingerTip__UpdateApprovedFor</name>
+            <type>FieldUpdate</type>
+        </action>
+        <action>
+            <name>FingerTip__UpdateStanceStatusRejected</name>
+            <type>FieldUpdate</type>
+        </action>
+    </finalRejectionActions>
+    <finalRejectionRecordLock>false</finalRejectionRecordLock>
+    <initialSubmissionActions>
+        <action>
+            <name>FingerTip__UpdateStanceStatusPending</name>
+            <type>FieldUpdate</type>
+        </action>
+    </initialSubmissionActions>
+    <label>Fingertip Suggestion approval Process</label>
+    <recallActions>
+        <action>
+            <name>FingerTip__UpdateStanceStatusRecalled</name>
+            <type>FieldUpdate</type>
+        </action>
+    </recallActions>
+    <recordEditability>AdminOnly</recordEditability>
+    <showApprovalHistory>true</showApprovalHistory>
+</ApprovalProcess>

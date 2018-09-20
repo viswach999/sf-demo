@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Certification</fullName>
+        <default>false</default>
+        <label>Certification</label>
+    </customValue>
+    <customValue>
+        <fullName>Company Investment</fullName>
+        <default>false</default>
+        <label>Company Investment</label>
+    </customValue>
+    <customValue>
+        <fullName>Course</fullName>
+        <default>false</default>
+        <label>Course</label>
+    </customValue>
+    <customValue>
+        <fullName>External Board Position</fullName>
+        <default>false</default>
+        <label>External Board Position</label>
+    </customValue>
+    <customValue>
+        <fullName>External Honor/Award</fullName>
+        <default>false</default>
+        <label>External Honor/Award</label>
+    </customValue>
+    <customValue>
+        <fullName>Patent</fullName>
+        <default>false</default>
+        <label>Patent</label>
+    </customValue>
+    <customValue>
+        <fullName>Publication</fullName>
+        <default>false</default>
+        <label>Publication</label>
+    </customValue>
+    <customValue>
+        <fullName>Public Service</fullName>
+        <default>false</default>
+        <label>Public Service</label>
+    </customValue>
+    <customValue>
+        <fullName>Speaking Event</fullName>
+        <default>false</default>
+        <label>Speaking Event</label>
+    </customValue>
+    <customValue>
+        <fullName>Video</fullName>
+        <default>false</default>
+        <label>Video</label>
+    </customValue>
+    <customValue>
+        <fullName>Volunteer</fullName>
+        <default>false</default>
+        <label>Volunteer</label>
+    </customValue>
+    <customValue>
+        <fullName>Political Position</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Political Position</label>
+    </customValue>
+    <masterLabel>External Connection Type</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

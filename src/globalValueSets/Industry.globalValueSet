@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Accommodation/Hospitality</fullName>
+        <default>false</default>
+        <label>Accommodation/Hospitality</label>
+    </customValue>
+    <customValue>
+        <fullName>Agriculture</fullName>
+        <default>false</default>
+        <label>Agriculture</label>
+    </customValue>
+    <customValue>
+        <fullName>Arts, Entertainment, and Recreation</fullName>
+        <default>false</default>
+        <label>Arts, Entertainment, and Recreation</label>
+    </customValue>
+    <customValue>
+        <fullName>Biotechnology</fullName>
+        <default>false</default>
+        <label>Biotechnology</label>
+    </customValue>
+    <customValue>
+        <fullName>Business and Personal Support</fullName>
+        <default>false</default>
+        <label>Business and Personal Support</label>
+    </customValue>
+    <customValue>
+        <fullName>Communication / Media</fullName>
+        <default>false</default>
+        <label>Communication / Media</label>
+    </customValue>
+    <customValue>
+        <fullName>Consulting</fullName>
+        <default>false</default>
+        <label>Consulting</label>
+    </customValue>
+    <customValue>
+        <fullName>Defense Industries</fullName>
+        <default>false</default>
+        <label>Defense Industries</label>
+    </customValue>
+    <customValue>
+        <fullName>Educational Services</fullName>
+        <default>false</default>
+        <label>Educational Services</label>
+    </customValue>
+    <customValue>
+        <fullName>Financial Services</fullName>
+        <default>false</default>
+        <label>Financial Services</label>
+    </customValue>
+    <customValue>
+        <fullName>Fishing and Hunting</fullName>
+        <default>false</default>
+        <label>Fishing and Hunting</label>
+    </customValue>
+    <customValue>
+        <fullName>Food Services and Drinking Establishment</fullName>
+        <default>false</default>
+        <label>Food Services and Drinking Establishment</label>
+    </customValue>
+    <customValue>
+        <fullName>Forestry</fullName>
+        <default>false</default>
+        <label>Forestry</label>
+    </customValue>
+    <customValue>
+        <fullName>Health Care and Social Assistance</fullName>
+        <default>false</default>
+        <label>Health Care and Social Assistance</label>
+    </customValue>
+    <customValue>
+        <fullName>Manufacturing - Chemical</fullName>
+        <default>false</default>
+        <label>Manufacturing - Chemical</label>
+    </customValue>
+    <customValue>
+        <fullName>Manufacturing - Food and Bev</fullName>
+        <default>false</default>
+        <label>Manufacturing - Food and Bev</label>
+    </customValue>
+    <customValue>
+        <fullName>Manufacturing - Machinery</fullName>
+        <default>false</default>
+        <label>Manufacturing - Machinery</label>
+    </customValue>
+    <customValue>
+        <fullName>Manufacturing - Products</fullName>
+        <default>false</default>
+        <label>Manufacturing - Products</label>
+    </customValue>
+    <customValue>
+        <fullName>Mining</fullName>
+        <default>false</default>
+        <label>Mining</label>
+    </customValue>
+    <customValue>
+        <fullName>Other</fullName>
+        <default>false</default>
+        <label>Other</label>
+    </customValue>
+    <customValue>
+        <fullName>Professional Services</fullName>
+        <default>false</default>
+        <label>Professional Services</label>
+    </customValue>
+    <customValue>
+        <fullName>Public Administration</fullName>
+        <default>false</default>
+        <label>Public Administration</label>
+    </customValue>
+    <customValue>
+        <fullName>Real Estate and Construction</fullName>
+        <default>false</default>
+        <label>Real Estate and Construction</label>
+    </customValue>
+    <customValue>
+        <fullName>Retail Trade</fullName>
+        <default>false</default>
+        <label>Retail Trade</label>
+    </customValue>
+    <customValue>
+        <fullName>Technical and Scientific Services</fullName>
+        <default>false</default>
+        <label>Technical and Scientific Services</label>
+    </customValue>
+    <customValue>
+        <fullName>Transportation and Warehousing</fullName>
+        <default>false</default>
+        <label>Transportation and Warehousing</label>
+    </customValue>
+    <customValue>
+        <fullName>Travel Management</fullName>
+        <default>false</default>
+        <label>Travel Management</label>
+    </customValue>
+    <customValue>
+        <fullName>Utilities</fullName>
+        <default>false</default>
+        <label>Utilities</label>
+    </customValue>
+    <customValue>
+        <fullName>Wholesale Trade - Durable Goods</fullName>
+        <default>false</default>
+        <label>Wholesale Trade - Durable Goods</label>
+    </customValue>
+    <customValue>
+        <fullName>Wholesale Trade - NonDurable Goods</fullName>
+        <default>false</default>
+        <label>Wholesale Trade - NonDurable Goods</label>
+    </customValue>
+    <masterLabel>Industry</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

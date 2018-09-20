@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApprovalProcess xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <allowRecall>true</allowRecall>
+    <allowedSubmitters>
+        <type>owner</type>
+    </allowedSubmitters>
+    <approvalPageFields>
+        <field>Name</field>
+        <field>Owner</field>
+        <field>FingerTip__Decision__c</field>
+        <field>FingerTip__Type_of_Approval__c</field>
+        <field>FingerTip__Role__c</field>
+    </approvalPageFields>
+    <approvalStep>
+        <allowDelegate>false</allowDelegate>
+        <assignedApprover>
+            <approver>
+                <name>FingerTip__User__c</name>
+                <type>relatedUserField</type>
+            </approver>
+            <whenMultipleApprovers>FirstResponse</whenMultipleApprovers>
+        </assignedApprover>
+        <label>Decision Approval</label>
+        <name>Decision_Approval</name>
+    </approvalStep>
+    <description>This approval process is triggered to Accountable, Backup and Veto on Propose phase if the stance is provided for final approval or rejection of a decision.</description>
+    <emailTemplate>FingerTip__Decision_Email_Templates/FingerTip__Email_Template_for_decision_approval_v4</emailTemplate>
+    <enableMobileDeviceAccess>false</enableMobileDeviceAccess>
+    <entryCriteria>
+        <formula>FingerTip__Final_Approval_Entry_Criteria__c</formula>
+    </entryCriteria>
+    <finalApprovalActions>
+        <action>
+            <name>FingerTip__UpdateDecisionStatusApprove</name>
+            <type>FieldUpdate</type>
+        </action>
+    </finalApprovalActions>
+    <finalApprovalRecordLock>false</finalApprovalRecordLock>
+    <finalRejectionActions>
+        <action>
+            <name>FingerTip__UpdateDecisionStatusReject</name>
+            <type>FieldUpdate</type>
+        </action>
+    </finalRejectionActions>
+    <finalRejectionRecordLock>false</finalRejectionRecordLock>
+    <initialSubmissionActions>
+        <action>
+            <name>FingerTip__UpdateDecisionStatusPending</name>
+            <type>FieldUpdate</type>
+        </action>
+    </initialSubmissionActions>
+    <label>Fingertip Final approval Process</label>
+    <recallActions>
+        <action>
+            <name>FingerTip__UpdateDecisionStatusRecalled</name>
+            <type>FieldUpdate</type>
+        </action>
+    </recallActions>
+    <recordEditability>AdminOnly</recordEditability>
+    <showApprovalHistory>true</showApprovalHistory>
+</ApprovalProcess>

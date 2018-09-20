@@ -1,0 +1,66 @@
+/*Catalog Page*/
+.product-panel{
+    padding-top: 20px;
+    background-color: #fff;
+}
+.button-panel{
+//padding-top: 20px;
+    background-color: #fff;
+    margin-top:25px;
+    padding: 10px;
+}
+.dismissButton{
+ width:15px; 
+ height:15px;
+ margin-top: -2px;
+ position: relative;
+ margin-right: -15px;
+ cursor: pointer;
+}
+.cart-circle {
+    width: 25px;
+    height: 25px;
+    background: red;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+    background-color:#D59F0B;
+    color:#fff;
+    margin-left: 27px;
+    top: 7px;
+    position: absolute;
+    }
+	
+.circle {
+    width: 25px;
+    height: 25px;
+    background: red;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+    background-color:#D59F0B;
+    color:#fff;
+    margin-left: 27px;
+    top: -11px;
+    position: absolute;
+    }
+.notifNumber{
+    margin-left: 8px;
+    top: 4px;
+    position: relative;
+    }
+
+.dismissText, .dismissButton{
+color:#3D7099;
+}
+
+.product-tile{
+	border-bottom: 25px solid #d3d3d3;
+   }
+
+@media screen and (min-width: 1200px) {
+   .product-tile{
+	border-bottom: 1px solid #d3d3d3;
+   }
+}	
+ /*Catalog Page End*/
