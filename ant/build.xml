@@ -26,10 +26,10 @@
          so unset values are treated as empty. Without this, ant expressions such as ${sf.username}
          will be treated literally.
     -->
-    <condition property="sf1.username" value="vchereddy@ypo.org.poc1"> <not> <isset property="sf1.username"/> </not> </condition>
-    <condition property="sf1.password" value="Qentelli@123w3W7lmKsvLqGQ2icU0BJllKjz"> <not> <isset property="sf1.password"/> </not> </condition>
-    <condition property="sf2.username" value="vchereddy@ypo.org.poc2"> <not> <isset property="sf2.username"/> </not> </condition>
-    <condition property="sf2.password" value="Qentelli@123k8IPM41PhfroDVujx4RRlvLP"> <not> <isset property="sf2.password"/> </not> </condition>
+    <condition property="sf1.username" value="xxxxxxxx"> <not> <isset property="sf1.username"/> </not> </condition>
+    <condition property="sf1.password" value="xxxxxxxxxxxx"> <not> <isset property="sf1.password"/> </not> </condition>
+    <condition property="sf2.username" value="xxxxxxxxx"> <not> <isset property="sf2.username"/> </not> </condition>
+    <condition property="sf2.password" value="xxxxxxxxxxx"> <not> <isset property="sf2.password"/> </not> </condition>
     <!--  <condition property="sf1.sessionId" value=""> <not> <isset property="sf.sessionId"/> </not> </condition> -->
   
   
