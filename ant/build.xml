@@ -139,7 +139,7 @@
 
 	<!-- Retrieve the information on all supported metadata type -->
     <target name="describeMetadata">
-      <sf:describeMetadata username="${sf.username}" password="${sf.password}" sessionId="${sf.sessionId}" serverurl="${sf.serverurl}"/>
+      <sf:describeMetadata username="${sf.username}" password="${sf.password}" serverurl="${sf.serverurl}"/>
     </target>
 </project>
 
