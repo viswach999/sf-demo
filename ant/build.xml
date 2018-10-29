@@ -28,6 +28,10 @@
     -->
     <condition property="sf.username" value="viswanathchereddy123@gmail.com"> <not> <isset property="sf1.username"/> </not> </condition>
     <condition property="sf.password" value="Qentelli@456rHPqY70ofaqQqLsH03BiebiEm"> <not> <isset property="sf1.password"/> </not> </condition>
+<<<<<<< HEAD
+=======
+    
+>>>>>>> 29189b615632d5217b146f62f0915fd81082c80c
     <!--  <condition property="sf1.sessionId" value=""> <not> <isset property="sf.sessionId"/> </not> </condition> -->
   
   
@@ -51,7 +55,7 @@
     <target name="retrieveUnpackaged">
       <mkdir dir="retrieveUnpackaged"/>
       <!-- Retrieve the contents into another directory -->
-      <sf:retrieve username="${sf1.username}" password="${sf1.password}" serverurl="${sf.serverurl}" maxPoll="${sf.maxPoll}" retrieveTarget="retrieveUnpackaged" unpackaged="src/package.xml"/>
+      <sf:retrieve username="${sf.username}" password="${sf.password}" serverurl="${sf.serverurl}" maxPoll="${sf.maxPoll}" retrieveTarget="retrieveUnpackaged" unpackaged="src/package.xml"/>
     </target>
 	
   	<target name="retrieveAdmin">
