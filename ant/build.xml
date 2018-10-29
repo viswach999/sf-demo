@@ -26,10 +26,8 @@
          so unset values are treated as empty. Without this, ant expressions such as ${sf.username}
          will be treated literally.
     -->
-    <condition property="sf1.username" value="xxxxxxxxxxxxxxxxx"> <not> <isset property="sf1.username"/> </not> </condition>
-    <condition property="sf1.password" value="xxxxxxxxxxxxxxxxxxxxx"> <not> <isset property="sf1.password"/> </not> </condition>
-    <condition property="sf2.username" value="xxxxxxxxxxxxxxxxxxxxx"> <not> <isset property="sf2.username"/> </not> </condition>
-    <condition property="sf2.password" value="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"> <not> <isset property="sf2.password"/> </not> </condition>
+    <condition property="sf.username" value="viswanathchereddy123@gmail.com"> <not> <isset property="sf1.username"/> </not> </condition>
+    <condition property="sf.password" value="Qentelli@456rHPqY70ofaqQqLsH03BiebiEm"> <not> <isset property="sf1.password"/> </not> </condition>
     <!--  <condition property="sf1.sessionId" value=""> <not> <isset property="sf.sessionId"/> </not> </condition> -->
   
   
@@ -79,7 +77,7 @@
 
     <!-- Deploy a zip of metadata files to the org -->
     <target name="deployZip">
-      <sf:deploy username="${sf.username}" password="${sf.password}" sessionId="${sf.sessionId}" serverurl="${sf.serverurl}" maxPoll="${sf.maxPoll}" zipFile="${sf.zipFile}" pollWaitMillis="1000" rollbackOnError="true"/>
+      <sf:deploy username="${sf.username}" password="${sf.password}" serverurl="${sf.serverurl}" maxPoll="${sf.maxPoll}" zipFile="${sf.zipFile}" pollWaitMillis="1000" rollbackOnError="true"/>
     </target>
 
     <!-- Shows deploying code & running tests for code in directory -->
