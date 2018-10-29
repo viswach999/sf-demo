@@ -1,7 +1,7 @@
 <!--<project name="The Welkin Suite's Salesforce Ant tasks" default="deploy" basedir="." xmlns:sf="antlib:com.salesforce">
 
     <property file="build.properties"/>
-    <property environment="env"/>
+    <property environment="environment"/>
 
 	<taskdef uri="antlib:com.salesforce"
 			 resource="com/salesforce/antlib.xml"
