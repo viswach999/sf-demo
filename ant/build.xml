@@ -28,10 +28,7 @@
     -->
     <condition property="sf.username" value="viswanathchereddy123@gmail.com"> <not> <isset property="sf.username"/> </not> </condition>
     <condition property="sf.password" value="Qentelli@456rHPqY70ofaqQqLsH03BiebiEm"> <not> <isset property="sf.password"/> </not> </condition>
-<<<<<<< HEAD
-=======
-    
->>>>>>> 29189b615632d5217b146f62f0915fd81082c80c
+
     <!--  <condition property="sf1.sessionId" value=""> <not> <isset property="sf.sessionId"/> </not> </condition> -->
   
   
