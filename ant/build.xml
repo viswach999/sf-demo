@@ -142,7 +142,7 @@
     </target>
 </project>
 
-        <!-- Retrieve the information on all supported metadata type -->
+        <!-- Retrieve the information and Give credentials to the org with the changeset, and include the name of change set -->
     <target name="retrieveChangeset">
       <sf:describeMetadata username="${sf.username}" password="${sf.password}" serverurl="${sf.serverurl}" retrieveTarget="changesetfolder" packageNames="changesetname"/>
     </target>
