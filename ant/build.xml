@@ -142,6 +142,12 @@
     </target>
 </project>
 
+        <!-- Retrieve the information on all supported metadata type -->
+    <target name="retrieveChangeset">
+      <sf:describeMetadata username="${sf.username}" password="${sf.password}" serverurl="${sf.serverurl}" retrieveTarget="changesetfolder" packageNames="changesetname"/>
+    </target>
+</project>
+
 
 
 
